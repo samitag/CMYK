@@ -1,0 +1,11 @@
+html {
+  margin: 0;
+  padding: 0;
+}
+
+canvas {
+  display: block;
+  margin-left: calc(50vw - 250px);
+  margin-top: 20vh;
+}
+
